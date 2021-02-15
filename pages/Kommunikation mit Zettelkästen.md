@@ -1,0 +1,83 @@
+---
+title: Kommunikation mit Zettelkästen
+---
+
+## Metadata::
+### Editor(s):: [[Horst Baier]], [[Hans Mathias Kepplinger]], [[Kurt Reumann]]
+
+### Author(s):: [[Niklas Luhmann]]
+
+### Book title:: [[Öffentliche Meinung und sozialer Wandel / Public Opinion and Social Change]]
+
+### Type:: [[Chapter]]
+
+### Topics:: [[Wissensmanagement]]
+
+### Date:: 1981
+
+### Date added:: [[July 17th, 2020]]
+
+### Zotero links:: [Local library](zotero://select/library/items/DR24RLRB), [Web library](https://www.zotero.org/users/4111725/items/DR24RLRB), [Luhmann - 1981 - Kommunik....pdf](zotero://open-pdf/library/items/KLM5KWXA)
+
+### URL:: [http://link.springer.com/10.1007/978-3-322-87749-9_19](http://link.springer.com/10.1007/978-3-322-87749-9_19)
+
+### tag:: #[[Exzerpt]], #[[ZoteroImport]]
+
+## Notes::
+### **[[Yellow Annotations]]**
+#### "Ohne zu schreiben, kann man nicht denken; jedenfalls nicht in anspruchsvoller, anschlußfähiger Weise. Irgendwie muss man Differenzen markieren, Distinktionen entweder explizit oder in Begriffen impliziert festhalten; nur die so gesicherte Konstanz des Schemas, das Informationen erzeugt, garantiert den Zusammenhalt der anschließenden Informationsverarbeitungsprozesse." ([Luhmann 1981:222](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=1))
+:PROPERTIES:
+:ID:d810be8d-88ac-4faf-abec-25476c5e4d0f
+:END:
+
+#### "Für Kommunikation ist eine der elementaren Voraussetzungen, dass die Partner sich wechselseitig überraschen können. Nur so ist ein Generieren von Information im jeweils anderen möglich." ([Luhmann 1981:222](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=1))
+
+#### "Für Kommunikation ist nicht vorauszusetzen, dass beide Partner das gleiche Vergleichsschema verwenden; der Überraschungseffekt steigt sogar, wenn dies nicht der Fall ist und man es als Zufall ansieht" [Luhmann 1981:223](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=2))
+
+#### "Soll ein Kommunikationsystem über langere Zeit zusammenhalten, muß entweder der Weg hochgradig technischer Spezialisierung oder der Weg der Inkorporierung von Zufall und ad hoc generierter Information gewählt werden. Auf Notizsammlungen übertragen: Man kann den Weg einer thematischen Spezialisierung (etwa: Notizen über das Staatshaftungsrecht) oder den Weg einer offenen Anlage wählen. Wir haben uns für die zuletztgenannte Alternative entschieden, und nach nunmehr 26 Jahren erfolgreicher, nur gelegentlich schwieriger Zusammenarbeit können wir den Erfolg - oder zumindest: die Gangbarkeit dieses Weges bestätigen." ([Luhmann 1981:223](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=2))
+
+#### "Für das Innere des Zettelkastens, für das Arrangement der Notizen, für sein geistiges Leben ist entscheidend, daß man sich gegen eine systematische Ordnung nach Themen und Unterthemen und statt dessen für eine feste Stellordnung entscheidet. Ein inhaltliches System (nach Art einer Buchgliederung) würde bedeuten, daß man sich ein für aIle mal (für Jahrzehnte im voraus!) auf eine bestimmte Sequenz festlegt. Das muß, wenn man das Kommunikationssystem und sich selbst als entwicklungsfähig einschätzt, sehr rasch zu unlösbaren Einordnungsproblemen führen. Die feste Stellordnung braucht keine Sachordnung. Es genügt, daß man jedem Zettel eine Nummer gibt, sie gut sichtbar (bei uns links oben) anbringt und diese Nummer und damit den Standort niemals ändert. Diese Strukturentscheidung ist diejenige Reduktion der Komplexität möglicher Arrangements, die den Aufbau hoher Komplexität im Zettelkasten und damit seine Kommunikationsfähigkeit erst ermöglicht." ([Luhmann 1981:224](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=3))
+
+#### "(1) Beliebige innere Verzweigungsfähigkeit. Man braucht zusätzliche Notizen nicht hintenanzufügen, sondern kann sie überal anschließen, auch an einzelne Worte mitten im laufenden Text. Ein Zettel mit der Nummer 57/12 kann dann im laufenden Text über 57/13 usw. weitergeführt werden, kann aber zugleich von einem bestimmten Wort oder Gedanken aus mit 57/12a ergänzt werden, fortlaufend über 57/12b usw.; wobei intern dann wieder 57/12a1 usw. angeschlossen werden kann." ([Luhmann 1981:224](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=3))
+
+#### "Auf dem Zettel selbst verwende ich rote Buchstaben oder Zahlen, um die Anschlußstelle zu markieren. Es kann mehrere Anschlußstellen auf einem Zettel geben. Auf diese Weise ist eine Art Wachstum nach innen möglich je nach dem, was an Gedankengut anfallt, ohne systematische Vorprogrammierung und ohne Bindung an sequentielle Linearitat. Der Nachteil ist: daß der ursprünglich laufende Text oft durch Hunderte von Zwischenzettel unterbrochen ist; aber wenn man die Nummerierung systematisch handhabt, läßt sich der ursprüngliche Textzusammenhang leicht wiederfinden." ([Luhmann 1981:224](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=3))
+
+#### "(2) VerweisungsMöglichkeiten. Da aIle Zettel feste Nummern haben, kann man auf Zetteln Verweisungen in beliebiger Zahl anbringen. Zentralbegriffe können mit einem Haufen von Verweisungen belegt sein, die angeben, in welchen anderen Zusammenhangen etwas zu ihnen Gehöriges festgehalten ist. Durch Verweisungen kann, ohne allzuviel Arbeits- und Papieraufwand, das Problem des "multiple storage" gelöst werden. Bei dieser Technik ist es weniger wichtig, wo eine neue Notiz eingeordnet wird. Wenn sich mehrere Möglichkeiten bieten, kann man das Problem nach Belieben lösen und den Zusammenhang durch Verweisungen festhalten. Oft suggeriert die Arbeitssituation, aus der heraus man sich zu einer Notiz entscheidet, eine Vielzahl von Bezügen auf schon Vorhandenes, besonders wenn der Zettelkasten schon groß ist. Es ist dann wichtig, den Zusammenhang gleichsam strahlenförmig, ebenso aber auch mit Querverweisungen an den angezogenen SteIlen, sogleich festzuhalten. In diesem Arbeitsprozeß reichen sich zumeist auch das an, was man inhaltlich notiert." ([Luhmann 1981:224](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=3))
+
+#### "(3) Register. Mangels einer systematischen Stellordnung mug man den Prozeß des Wiederfindens von Eintragungen regeln, denn man kann sich hier nicht auf sein "Nummern-Gedächtnis verlassen." ([Luhmann 1981:225](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=4))
+
+#### "Also ist ein Schlagwortregister nötig, das laufend fortgeführt wird. Auch hierfür ist die Nummerierung der einzelnen Zettel unentbehrlich. Ein parallel arbeitendes Hilfsmittel kann mit dem bibliographischen Apparat verbunden werden. Bibliographische Notizen, die man aus der Literatur herauszieht, sollten innerhalb des Zettelkastens festgehalten werden." ([Luhmann 1981:225](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=4))
+
+#### "Bücher, Aufsätze usw., die man tatsächlich gelesen hat, gehören mit je einem besondern Zettel mit bibliographischen Angaben in einen besonderen Kasten. Man kann dann nicht nur nach langerer Zeit feststellen, was man wirklich gelesen und was man nur vorsorglich notiert hatte; sondern die bibliographischen Zettel bieten auch die Möglichkeiten, Verweisungsnummern anzubringen, die festhalten, wo man Notizen festgehalten hat, die sich auf dieses Werk beziehen oder durch es angeregt waren. Das erweist sich als hilfreich, weil das eigene Gedächtnis - anderen wird es ähnlich gehen wie mir - nur zum Teil mit Schlagworten und zum Teil mit Autorennamen arbeitet." ([Luhmann 1981:225](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=4))
+
+#### "Als Ergebnis langerer Arbeit mit dieser Technik entsteht eine Art Zweitgedächtnis, ein alter Ego, mit dem man laufend kommunizieren kann." ([Luhmann 1981:225](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=4))
+
+#### "Die Gesamtheit der Notizen läßt sich nur als Unordnung beschreiben, immerhin aber als Unordnung mit nichtbeliebiger interner Struktur. Manches versickert, manche Notiz wird man nie wieder sehen. Andererseits gibt es bevorzugte Zentren, Klumpenbildungen und Regionen, mit denen man haufiger arbeitet als mit anderen." ([Luhmann 1981:225](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=4))
+:PROPERTIES:
+:ID:94125d13-a1ea-433e-82cc-5362ced812fe
+:END:
+
+#### "Um zusammenzufassen: Es ist mit dieser Technik gewährleistet, daß die Ordnung - sie ist ja nur formal - nicht zur Fessel wird, sondern sich der Gedankenentwicklung anpagt." ([Luhmann 1981:225](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=4))
+
+#### "Ähnlich wie man in der Erkenntnistheorie die Vorstellung aufzugeben hat, es gebe "privilegierte Vorstellungen", von denen aus der Wahrheitswert anderer Vorstellungen oder Aussagen kontrolliert werden könne, muß man aber auch beim Anlegen eines Zettelkastens die Vorstellung aufgeben, es gebe privilegierte Plätze, Zettel von besonderer, erkenntnisgarantierender Qualitat." ([Luhmann 1981:225](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=4))
+
+#### "Jede Notiz ist nur ein Element, das seine Qualitat erst aus dem Netz der Verweisungen und Rückverweisungen im System erhalt. Eine Notiz, die an dieses Netz nicht angeschlossen ist, geht im Zettelkasten verloren, wird yom Zettelkasten vergessen. Ihre Wiederentdeckung ist auf Zufalle angewiesen und auch darauf, daß dieser Wiederfund im Moment des Vorfalls zufallig etwas besagt." ([Luhmann 1981:225](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=4))
+:PROPERTIES:
+:ID:1f5e2f25-37bd-4086-b730-04c4a154b632
+:END:
+
+#### "Der Zettelkasten braucht einige Jahre, um genügend kritische Masse zu gewinnen. Bis dahin arbeitet er nur als Behälter, aus dem man das herausholt, was man hineingetan hat. Mit zunehmender Größe und Komplexität wird dies anders. Einerseits vermehrt sich die Zahl der Zugänge und Abfrage-Möglichkeiten. Er wird zum Universalinstrument. Fast alles kann man unterbringen, und zwar nicht nur ad hoc und isoliert, sondern mit internen Anschluß-Möglichkeiten. Er wird ein sensibles System, das auf vielerlei Einfälle, sofern sie nur notierbar sind, intern anspricht." ([Luhmann 1981:226](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=5))
+
+#### "Man fragt sich zum Beispiel, warum einerseits die Museen leer und andererseits die Ausstellungen Monet, Picasso, Medici überlaufen sind; der Zettelkasten nimmt diese Frage an unter dem Gesichtspunkt der Präferenz für Befristetes. Natürlich sind die intern bereitstehenden Anschlüsse selektiv, wie dieses Beispiel zeigen soll. Sie liegen außerdem, da eine Systemgrenze zwischen dem Eintragenden und dem Zettelkasten überschritten werden muß, im Bereich des Nichtselbstverständlichen. Ein neuer Eintrag kann sich natürlich auch isolieren - etwa unter dem Stichwort Picasso für die Picasso-Ausstellung. Wenn man dagegen Kommunikation mit dem Zettelkasten sucht, muß man nach internen Anschluß-Möglichkeiten suchen, die Unerwartetes (Information) ergeben. Man kann versuchen, die Erfahrungen in Paris, Florenz, New York unter Allgemeinbegriffen wie Kunst oder Ausstellung oder Gedränge (interaktionistisch) oder Masse oder Freiheit oder Bildung zu generalisieren und sehen, ob der Zettelkasten reagiert. Ergiebiger ist es zumeist, nach Problemstellungen zu suchen, die Heterogenes zueinander in Beziehung setzen." ([Luhmann 1981:226](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=5))
+
+#### "Jedenfalls gewinnt die Kommunikation an Fruchtbarkeit, wenn es gelingt, aus Anlaß von Eintragungen oder von Abfragen das interne Verweisungsnetz in Betrieb zu setzen. Auch ein Gedächtnis funktioniert ja nicht als Summe von Punkt-für-Punkt Zugriffen, sondern benutzt interne Relationierungen und wird erst auf dieser Ebene der Reduktion eigener Komplexitat fruchtbar" ([Luhmann 1981:226](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=5))
+
+#### "Der Zettelkasten gibt aus gegebenen Anlässen kombinatorische Möglichkeiten her, die so nie geplant, nie vorgedacht, nie konzipiert worden waren. Dieser Innovationseffekt beruht einerseits darauf, daß die Anfrage Relationierungs-Möglichkeiten provozieren kann, die noch gar nicht traciert waren; zum anderen aber auch darauf, daß sie auf interne Selektionshorizonte und Vergleichs-Möglichkeiten trifft, die mit ihrem eigenen Suchschema nicht identisch sind." ([Luhmann 1981:226](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=5))
+
+#### "Gegenüber dieser Struktur, die aktualisierbare Verknüpfungs-Möglichkeiten bereithält, tritt die Bedeutung des konkret Notierten zurück. Vieles davon wird rasch unbrauchbar oder bleibt bei gegebenem AnIaß unbenutzbar. Das gilt sowohl für Exzerpte, die ohnehin nur bei besonders prägnanten Formulierungen lohnen, als auch für eigene Überlegungen. Wissenschaftliche Publikationen entstehen denn auch nicht, so jedenfalls meine Erfahrung, durch Abschreiben dessen, was für diesen Zweck im Zettelkasten schon niedergelegt ist. Die Kommunikation mit dem Zettelkasten wird erst auf höher generalisierten Ebenen fruchtbar, nämlich auf der Ebene der kommunikativen Relationierung von Relationen. Und sie wird erst im Moment der Auswertung produktiv, also zeitgebunden und in hohem Maße zufällig." ([Luhmann 1981:227](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=6))
+
+#### "Man mag sich fragen, ob damit nicht auch die Ergebnisse einer solchen Kommunikation Zufallsprodukte sind. Das wäre indes eine zu stark komprimierte Vermutung. […] Wenn man evolutionstheoretischen Modellen folgt, hat Zufall eine geradezu führende Rolle. Ohne ihn geht nichts, geht jedenfalls nichts voran. Ohne Variation am gegebenen Gedankengut gibt es keine Möglichkeiten der Prüfung und Selektion von Neuerungen. […] Das eigentliche Problem verlagert sich damit in die Erzeugung von Zufällen mit hinreichend verdichteten Chancen fär Selektion." ([Luhmann 1981:227](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=6))
+
+#### "Im Unterschied zur alten Unterscheidung von Genesis und Geltung geht man heute aber davon aus, daß eine Isolierung dieser beiden Aspekte gegeneinander weder möglivh noch methodisvh sinnvoll ist; denn auch die Erzeugung von Zufallsanregungen bedarf der Organisation, allein schon um den Anforderungen an Tempo, Häufung und Erfolgswahrscheinlichkeit zu gelingen, die in einer dynamischen Gesellschaft gestellt werden müssen." ([Luhmann 1981:227](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=6))
+
+#### "Nicht zuletzt ist, ganz traditionell gesehen, die "Einheit von Forschung und Lehre" eine Reibungsfront mit zufallgenerierenden Effekten. Daß auch Kommunikation mit Zettelkasten hierfür als ein funktionales Aquivalent in Betracht kommt und daß sie, verglichen mit den anderen Möglichkeiten viele Vorteile hat, was Informationsverdichtung, Tempo und wechselseitige Gefügigkeit angeht, können wir bestätigen." ([Luhmann 1981:228](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=7))
